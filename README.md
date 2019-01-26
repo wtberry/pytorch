@@ -2,6 +2,7 @@
 
 Tutorials for [PyTorch](https://pytorch.org/) deep leaning platform.
 
+* Done on spring 2018, documented by git on Jan 2019
 ## python scripts
 - 60_min_cnn.py: pytorch [60 min tutorial neural networks](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#sphx-glr-beginner-blitz-neural-networks-tutorial-py)
 - cifar10_tutorial.py: torchvision package tutorial with cnn
